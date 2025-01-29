@@ -1,6 +1,5 @@
 # SI_T5_P1
-## Keylogger
-
+## Actividad Keylogger
 ## keylogger.py
 Un keylogger básico que registra las teclas pulsadas por el usuario y las guarda en un archivo `keylog.txt`.
 
